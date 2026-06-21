@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sharif. 
-### 🇬🇭 Aspiring Software Engineer | Python Enthusiast
+### Aspiring Software Engineer | Python Enthusiast
 
 I am a recent high school graduate from Ghana preparing to launch my journey into tech. I'm currently aiming for **KNUST** to pursue a degree in Computer Science or Computer Engineering. 
 
