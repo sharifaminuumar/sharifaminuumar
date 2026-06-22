@@ -14,7 +14,7 @@ I started my coding journey with **Python** because of its clean, logical syntax
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 Here are the technologies I am currently working with and expanding upon:
 
 - **Languages:** Python (Core, OOP) | *Next up: Exploring Java, C++, or JavaScript!*
